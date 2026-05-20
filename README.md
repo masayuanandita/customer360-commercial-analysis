@@ -257,7 +257,7 @@ This project can help businesses:
 **Anandita**
 Data Analyst | Data Science & Machine Learning Enthusiast
 
-LinkedIn: [(Add your LinkedIn URL)](https://www.linkedin.com/in/masayuanandita-/)
+LinkedIn: https://www.linkedin.com/in/masayuanandita-
 Email : ananditaprameswari23@gmail.com
 
 ---
