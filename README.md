@@ -224,7 +224,7 @@ Negative correlation observed between:
 (Add your Power BI dashboard screenshot here)
 
 ```md
-![Dashboard](images/dashboard.png)
+Screenshot 2026-05-20 at 11.22.41.png
 ```
 
 ---
