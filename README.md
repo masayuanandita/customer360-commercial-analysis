@@ -221,11 +221,8 @@ Negative correlation observed between:
 
 ### Customer 360 Dashboard
 
-(Add your Power BI dashboard screenshot here)
+<img width="839" height="683" alt="Screenshot 2026-05-20 at 11 22 41" src="https://github.com/user-attachments/assets/f38e5499-850e-4df4-aee5-0622456fc2a7" />
 
-```md
-Screenshot 2026-05-20 at 11.22.41.png
-```
 
 ---
 
